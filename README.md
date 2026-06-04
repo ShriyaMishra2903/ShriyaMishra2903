@@ -8,6 +8,11 @@
 
 🚀 Building AI applications and continuously learning modern AI technologies
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=AI+Engineer+in+Training;Building+GenAI+Applications;Learning+LLMs+%26+Agentic+AI" />
+</p>
+
+
 ---
 
 ## 🌱 Currently Learning
@@ -23,7 +28,19 @@
 
 ## 🛠️ Languages & Tools
 
-Python • Git • GitHub • Streamlit • Ollama • Hugging Face • LangChain • CrewAI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
+
+---
+
+## 🤖 AI & GenAI Tools
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-6A0DAD?style=for-the-badge)
 
 ---
 
