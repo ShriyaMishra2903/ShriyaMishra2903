@@ -10,7 +10,9 @@
 
 📊 MBA in Business Analytics
 
-🤖 Passionate about Artificial Intelligence, Generative AI, and Large Language Models
+🧠 Machine Learning • Deep Learning • Generative AI
+
+🤖 Exploring LLMs, RAG, Agentic AI, and AI System Design
 
 🚀 Building AI applications and continuously learning modern AI technologies
 
@@ -50,6 +52,13 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
 
+### Deep Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+</p>
+
 ### AI & GenAI Stack
 
 <p align="left">
@@ -75,13 +84,17 @@
 
 ## 📂 Featured Projects
 
-🔹 AI Chatbot using Streamlit & Ollama
+🔹 Austo Motor Company Customer Analysis (EDA)
+
+🔹 Machine Learning Notebooks
+
+🔹 Deep Learning Notebooks
+
+🔹 AI Chatbot using Streamlit & Ollama *(In Progress)*
 
 🔹 Retrieval-Augmented Generation (RAG) Projects *(Coming Soon)*
 
 🔹 AI Agent Projects *(Coming Soon)*
-
-🔹 Machine Learning & Data Science Projects *(Coming Soon)*
 
 ---
 
@@ -95,4 +108,3 @@
 ---
 
 ⭐ Always learning, building, and exploring the future of AI.
-
