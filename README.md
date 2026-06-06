@@ -46,6 +46,13 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
+### Data Analytics & Visualization
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=excel" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48" height="48" />
+</p>
+
 ### Development Tools
 
 <p align="left">
